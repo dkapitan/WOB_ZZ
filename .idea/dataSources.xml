@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1998617822">
+    <data-source source="LOCAL" name="SQL Server - WOB_ZZ01@10.211.55.3" uuid="5194e9fb-7f1d-41bd-9be2-daca7fbf00ba">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://10.211.55.3:1433;databaseName=WOB_ZZ01</jdbc-url>
+      <user-name>osx_local</user-name>
+      <user-password>dfc5dfd9dfd2dff5dfc6dfc5dfc9dfcbdfc6</user-password>
+      <schema-pattern>WOB_ZZ.DIM WOB_ZZ.FCT</schema-pattern>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
